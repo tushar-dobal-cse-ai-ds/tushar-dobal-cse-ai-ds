@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi, I'm Tushar Dobal 👋
 
-<!--
-**tushar-dobal-cse-ai-ds/tushar-dobal-cse-ai-ds** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Final Year B.Tech – Computer Science & Engineering  
+📊 Aspiring Data Scientist  
 
-Here are some ideas to get you started:
+## 🔧 Skills (Learning & Practicing)
+- Python, SQL
+- Pandas, NumPy
+- Data Visualization (Matplotlib, Seaborn)
+- Machine Learning (Basics)
+- Data Structures & Algorithms (Python)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📁 Projects (In Progress)
+- Sales Data Analysis (Python, Pandas)
+- House Price Prediction (Machine Learning)
+- SQL Customer Analysis
+
+## 🌐 Profiles
+- GitHub: https://github.com/tushar-dobal-cse-ai-ds
+- Kaggle: https://leetcode.com/u/tushar-dobal-cse-ai-ds
+- LeetCode: https://www.kaggle.com/tushardobal
