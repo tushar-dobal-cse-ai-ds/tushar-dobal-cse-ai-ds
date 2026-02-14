@@ -17,5 +17,5 @@
 
 ## 🌐 Profiles
 - GitHub: https://github.com/tushar-dobal-cse-ai-ds
-- Kaggle: https://leetcode.com/u/tushar-dobal-cse-ai-ds
-- LeetCode: https://www.kaggle.com/tushardobal
+- Kaggle: https://www.kaggle.com/tushardobal
+- LeetCode: https://leetcode.com/u/tushar-dobal-cse-ai-ds
